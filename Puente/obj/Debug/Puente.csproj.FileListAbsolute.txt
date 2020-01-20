@@ -1,0 +1,7 @@
+C:\BOT\Cursos\Patrones\Puente\Puente\Puente\obj\Debug\Puente.csprojAssemblyReference.cache
+C:\BOT\Cursos\Patrones\Puente\Puente\Puente\obj\Debug\Puente.csproj.CoreCompileInputs.cache
+C:\BOT\Cursos\Patrones\Puente\Puente\Puente\bin\Debug\Puente.exe.config
+C:\BOT\Cursos\Patrones\Puente\Puente\Puente\bin\Debug\Puente.exe
+C:\BOT\Cursos\Patrones\Puente\Puente\Puente\bin\Debug\Puente.pdb
+C:\BOT\Cursos\Patrones\Puente\Puente\Puente\obj\Debug\Puente.exe
+C:\BOT\Cursos\Patrones\Puente\Puente\Puente\obj\Debug\Puente.pdb
